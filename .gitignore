@@ -109,20 +109,20 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
-/[Ll]ibrary/
-/[Tt]emp/
-/[Oo]bj/
-/[Bb]uild/
-/[Bb]uilds/
-/[Ll]ogs/
-/[Uu]ser[Ss]ettings/
+/DantesDescent.Renderer.Unity/[Ll]ibrary/
+/DantesDescent.Renderer.Unity/[Tt]emp/
+/DantesDescent.Renderer.Unity/[Oo]bj/
+/DantesDescent.Renderer.Unity/[Bb]uild/
+/DantesDescent.Renderer.Unity/[Bb]uilds/
+/DantesDescent.Renderer.Unity/[Ll]ogs/
+/DantesDescent.Renderer.Unity/[Uu]ser[Ss]ettings/
 
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
-/[Mm]emoryCaptures/
+/DantesDescent.Renderer.Unity/[Mm]emoryCaptures/
 
 # Recordings can get excessive in size
-/[Rr]ecordings/
+/DantesDescent.Renderer.Unity/[Rr]ecordings/
 
 # Packed Addressables
 /[Aa]ssets/[Aa]ddressable[Aa]ssets[Dd]ata/*/*.bin*
