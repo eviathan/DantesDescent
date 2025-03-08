@@ -109,14 +109,13 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
-/[Aa]ssets/Library
-/[Aa]ssets/[Ll]ibrary/
-/[Aa]ssets/[Tt]emp/
-/[Aa]ssets/[Oo]bj/
-/[Aa]ssets/[Bb]uild/
-/[Aa]ssets/[Bb]uilds/
-/[Aa]ssets/[Ll]ogs/
-/[Aa]ssets/[Uu]ser[Ss]ettings/
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
 
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
