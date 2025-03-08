@@ -3,7 +3,7 @@
 # Arguments with defaults
 PROJECT_NAME=${1:-"DantesDescent.Core"}
 CONFIG=${2:-"Debug"}
-FRAMEWORK=${3:-"net9.0"}
+FRAMEWORK=${3:-"net8.0"}
 
 # Root directory (where this script lives)
 ROOT_DIR="$(dirname "$(realpath "$0")")"

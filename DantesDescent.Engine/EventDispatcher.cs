@@ -2,14 +2,14 @@
 using Microsoft.Xna.Framework.Graphics;
 using Microsoft.Xna.Framework.Input;
 
-namespace DantesDescent.Application;
+namespace DantesDescent.Engine;
 
-public class Game1 : Game
+public class EventDispatcher : Microsoft.Xna.Framework.Game
 {
     private GraphicsDeviceManager _graphics;
     private SpriteBatch _spriteBatch;
 
-    public Game1()
+    public EventDispatcher()
     {
         _graphics = new GraphicsDeviceManager(this);
         Content.RootDirectory = "Content";
